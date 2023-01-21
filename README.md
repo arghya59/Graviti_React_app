@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Open Folder : cd graviti-app.
+Run Server : `npm start` || `sudo npm start` for mac users
 
 ## Available Scripts
 
