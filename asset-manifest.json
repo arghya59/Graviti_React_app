@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Graviti_React_app/static/css/main.e51ffa03.css",
+    "main.js": "/Graviti_React_app/static/js/main.20b30a04.js",
+    "index.html": "/Graviti_React_app/index.html",
+    "main.e51ffa03.css.map": "/Graviti_React_app/static/css/main.e51ffa03.css.map",
+    "main.20b30a04.js.map": "/Graviti_React_app/static/js/main.20b30a04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51ffa03.css",
+    "static/js/main.20b30a04.js"
+  ]
+}
